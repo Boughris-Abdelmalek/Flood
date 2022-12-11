@@ -24,7 +24,7 @@ For the customer, to be able to access the information and to contribuite by sca
 ### The purpose of the app is not only to be a tool but it can create a movement that anyone can take a part of and contribuite to change the world.
 
 ##	Team
-### I am the team for now
+### We are 4
 
 ##	Competition
 ### The aim of the project is to contribuite all of us and build something toghether.
